@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inteligência Artificial/Fundamentos de LLM.md",
+                "file": "Inteligência Artificial/AI Tooling/Spec-Driven Development.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fundamentos de LLM"
+              "title": "Spec-Driven Development"
             }
           }
         ]
@@ -190,22 +190,23 @@
   },
   "active": "2d31d4997807579d",
   "lastOpenFiles": [
-    "Inteligência Artificial/AI Tooling/Workflow Prático - API Spring Boot com IA.md",
-    "Inteligência Artificial/AI Tooling/Agentic Engineering.md",
+    "Inteligência Artificial/AI Tooling/MCP - Model Context Protocol.md",
     "Inteligência Artificial/AI Tooling/Ferramentas de Análise de Código.md",
+    "Inteligência Artificial/AI Tooling/AI Tooling - Visão Geral.md",
+    "Inteligência Artificial/AI Tooling/AI Coding Assistants.md",
+    "Inteligência Artificial/AI Tooling/Agentic Engineering.md",
+    "Inteligência Artificial/Roadmap AI Engineer.md",
+    "Inteligência Artificial/Mapa - Inteligência Artificial.md",
+    "Inteligência Artificial/Fundamentos de LLM.md",
+    "Inteligência Artificial/AI Tooling/Workflow Prático - API Spring Boot com IA.md",
     "Inteligência Artificial/AI Tooling/Testes e CI-CD com IA.md",
     "Inteligência Artificial/AI Tooling/Spec-Driven Development.md",
-    "Inteligência Artificial/AI Tooling/MCP - Model Context Protocol.md",
-    "Inteligência Artificial/AI Tooling/AI Coding Assistants.md",
-    "Inteligência Artificial/AI Tooling/AI Tooling - Visão Geral.md",
     "Inteligência Artificial/AI Tooling",
     "Templates/Template - Resumo de Vídeo.md",
     "Templates/Template - Livro.md",
     "00 - Início.md",
     "Anexos/Arquivos/Navigating the Jagged Technological Frontier (2023).pdf",
-    "Inteligência Artificial/Fundamentos de LLM.md",
     "Inteligência Artificial/Referências/Vídeos de IA.md",
-    "Inteligência Artificial/Roadmap AI Engineer.md",
     "Welcome.md"
   ]
 }
