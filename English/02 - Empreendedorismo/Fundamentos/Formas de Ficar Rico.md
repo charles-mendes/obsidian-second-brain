@@ -10,7 +10,7 @@ Voltar para [[Mapa - Empreendedorismo]]
 
 ## As 5 formas de ficar rico
 
-Resumo do short [Só tem 5 formas de FICAR RICO](https://www.youtube.com/shorts/yx-O4tKBLpE):
+Resumo do short [Só tem 5 formas de FICAR RICO](https://www.youtube.com/shorts/yx-O4tKBLpE) — El Professor da Oratória:
 
 1. **Herdar**
 2. **Ganhar na loteria**

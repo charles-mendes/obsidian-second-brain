@@ -23,7 +23,7 @@ O construtor de patrimônio fica rico **acumulando ativos ao longo do tempo**: t
 
 ## Conceitos-base
 
-> Resumo de [FICAR RICO é bem fácil, na real](https://www.youtube.com/watch?v=bwy3eQ-SkJw)
+> Resumo de [FICAR RICO é bem fácil, na real](https://www.youtube.com/watch?v=bwy3eQ-SkJw) — Bem fácil, na real
 
 **A meta realista é ficar "riquinho", não super rico:** algo como R$ 5 milhões ou US$ 1 milhão.
 

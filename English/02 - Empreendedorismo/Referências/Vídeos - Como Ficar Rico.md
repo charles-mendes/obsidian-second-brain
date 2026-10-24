@@ -15,17 +15,17 @@ Lista de vídeos em português sobre riqueza e empreendedorismo. Os que já têm
 
 | Vídeo | Canal | Resumo em |
 | --- | --- | --- |
-| [FICAR RICO é bem fácil, na real](https://www.youtube.com/watch?v=bwy3eQ-SkJw) | — | [[Construtores de Patrimônio]] |
+| [FICAR RICO é bem fácil, na real](https://www.youtube.com/watch?v=bwy3eQ-SkJw) | Bem fácil, na real | [[Construtores de Patrimônio]] |
 | [O QUE EU FARIA PARA FICAR MILIONÁRIO COMEÇANDO EM 2026?](https://www.youtube.com/watch?v=F3KKDQo8rRM) | Bruno Perini | [[Construtores de Patrimônio]] |
 | [BILIONÁRIO REVELA: COMO USAR UM SALÁRIO MÍNIMO PARA FICAR RICO!](https://www.youtube.com/watch?v=dgkR1LtHFNw) | Topo da Mente | [[Construtores de Patrimônio]] |
 | [Se você só puder assistir a 1 vídeo sobre dinheiro, assista ESTE](https://www.youtube.com/watch?v=_sPxwQsuSCs) | Sabrina Riguette | [[Construtores de Patrimônio]] |
-| [FINJA SER MILIONÁRIO](https://www.youtube.com/watch?v=E9IFHMKYRdE) | — | [[Criadores de Riqueza]] |
-| [Como Fazer MUITO Dinheiro Sendo Adolescente (6 Dicas)](https://www.youtube.com/watch?v=M6UkM4uFwCU) | — | [[Criadores de Riqueza]] |
+| [FINJA SER MILIONÁRIO](https://www.youtube.com/watch?v=E9IFHMKYRdE) | Raiam Santos | [[Criadores de Riqueza]] |
+| [Como Fazer MUITO Dinheiro Sendo Adolescente (6 Dicas)](https://www.youtube.com/watch?v=M6UkM4uFwCU) | O Milionário | [[Criadores de Riqueza]] |
 | [Acho que minha vida está começando a dar certo](https://www.youtube.com/watch?v=JrChCCL8C-8) | Pablo Augusto | [[Criadores de Riqueza]] |
-| [Só tem 5 formas de FICAR RICO](https://www.youtube.com/shorts/yx-O4tKBLpE) | — | [[Formas de Ficar Rico]] |
+| [Só tem 5 formas de FICAR RICO](https://www.youtube.com/shorts/yx-O4tKBLpE) | El Professor da Oratória | [[Formas de Ficar Rico]] |
 | [MENTE MILIONÁRIA — O Conselho 21](https://www.youtube.com/watch?v=l8zh-v3FIpM) | O Conselho | [[Mentalidade e Comunicação]] |
-| [Como Ficar RICO Sem Se Matar de ESTUDAR com FLÁVIO AUGUSTO](https://www.youtube.com/watch?v=ruKHhJl3rQY) | — | [[Mentalidade e Comunicação]] |
-| [Apenas A ELITE do 1% Se Comunica Assim](https://www.youtube.com/watch?v=MSo-z7WiA5c) | — | [[Mentalidade e Comunicação]] |
+| [Como Ficar RICO Sem Se Matar de ESTUDAR com FLÁVIO AUGUSTO](https://www.youtube.com/watch?v=ruKHhJl3rQY) | Código Alpha | [[Mentalidade e Comunicação]] |
+| [Apenas A ELITE do 1% Se Comunica Assim](https://www.youtube.com/watch?v=MSo-z7WiA5c) | Metaforando | [[Mentalidade e Comunicação]] |
 | [5 Bilionários x 5 Empresários (500 mil de prêmio)](https://www.youtube.com/watch?v=0mNITl6Eesg) | Canal Foco e Alfredo Soares | [[Empresa IA First]] |
 | [Como Ficar RICO com IA — Segundo a Anthropic](https://www.youtube.com/watch?v=-VFTBwTxfJg) | Maestros da IA | [[Empresa IA First]] |
 
@@ -42,7 +42,7 @@ Lista de vídeos em português sobre riqueza e empreendedorismo. Os que já têm
 
 ### Mentalidade e histórias
 
-- [ ] [TER DINHEIRO versus "SER RICO"](https://www.youtube.com/watch?v=DW3lLt8wW0A)
+- [ ] [TER DINHEIRO versus "SER RICO"](https://www.youtube.com/watch?v=DW3lLt8wW0A) — Raiam Santos
 - [ ] [Como se tornar milionário antes dos 30 anos](https://www.youtube.com/watch?v=9Y9wpO93qms) — Psicologia da Riqueza
 - [ ] [SOBRE FICAR RICO EM 2026](https://www.youtube.com/watch?v=dE8OMcno41s) — Raiam Santos
 - [ ] [Eu Faria Isso Se Quisesse Ficar Milionário Em 2026...](https://www.youtube.com/watch?v=7Ysqd3pXUbs) — Paulo Vieira

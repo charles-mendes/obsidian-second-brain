@@ -27,7 +27,7 @@ O passo a passo do que aprender está em [[Competências para Construir uma Empr
 
 ## "Finja ser milionário"
 
-> Resumo de [FINJA SER MILIONÁRIO](https://www.youtube.com/watch?v=E9IFHMKYRdE)
+> Resumo de [FINJA SER MILIONÁRIO](https://www.youtube.com/watch?v=E9IFHMKYRdE) — Raiam Santos
 
 - Opções binárias em 2026 é burrice; especular com criptomoeda também
 - **Aja como o milionário que você quer ser**: assim como, para dormir, você precisa primeiro deitar e fingir que está dormindo, para ficar rico você precisa primeiro adotar os hábitos e decisões de quem já é
@@ -36,7 +36,7 @@ O passo a passo do que aprender está em [[Competências para Construir uma Empr
 
 ## 6 dicas para fazer dinheiro começando do zero
 
-> Resumo de [Como Fazer MUITO Dinheiro Sendo Adolescente (6 Dicas Sobre Dinheiro em 2026)](https://www.youtube.com/watch?v=M6UkM4uFwCU)
+> Resumo de [Como Fazer MUITO Dinheiro Sendo Adolescente (6 Dicas Sobre Dinheiro em 2026)](https://www.youtube.com/watch?v=M6UkM4uFwCU) — O Milionário
 
 1. **Pare de economizar centavos, aprenda a ganhar mais (00:40):** o foco é aumentar a receita e buscar grandes objetivos, não privações pequenas que geram mentalidade medíocre.
 2. **Saia da casa dos pais com um plano (01:58):** ter responsabilidades financeiras (como pagar aluguel) força o amadurecimento e a busca por mais renda.

@@ -1,13 +1,35 @@
+---
+tags:
+  - referencia
+  - ia
+---
 
-https://www.youtube.com/watch?v=nsYnDZBoEUk&pp=ygURdHJlaW5hbmRvIHVtYSBsbG3SBwkJGwwBhyohjO8%3D
+# Vídeos de IA
 
-https://www.youtube.com/watch?v=8juRvzZg_AI&pp=ygURdHJlaW5hbmRvIHVtYSBsbG0%3D
+Voltar para [[Mapa - Inteligência Artificial]]
 
-https://www.youtube.com/watch?v=bJDOJLpYdS4&pp=ygURdHJlaW5hbmRvIHVtYSBsbG0%3D
+## Treinando e ajustando LLMs
 
-![[ssrn-4573321.pdf]
+- [ ] [TREINEI uma LLM de 1.2B para PROGRAMAR como uma LLM de 200B (Fine-Tuning)](https://www.youtube.com/watch?v=nsYnDZBoEUk) — AI ProgBr
+- [ ] [IA - Como treinar um LLM - Fine-Tuning passo a passo](https://www.youtube.com/watch?v=bJDOJLpYdS4) — Gustavo Malta Guimarães
 
+## RAG
 
-![[Pasted image 20260920033600.png]]
+- [ ] [Construindo um RAG próprio do ZERO](https://www.youtube.com/watch?v=8juRvzZg_AI) — Augusto Galego
 
-![[Pasted image 20260920034201.png]]
+Ao assistir, leve as anotações para [[Fundamentos de LLM]] (seções *Fine-tuning* e *Embeddings*) ou [[Roadmap AI Engineer]].
+
+Print salvo de um vídeo sobre fine-tuning:
+
+![[Thumbnail - Fine-tuning criando sites bonitos.png|400]]
+
+## Anotações de tópicos
+
+Os prints com listas de tópicos que estavam aqui foram transcritos e explicados em:
+
+- [[Fundamentos de LLM]] — tokens, system prompts, structured outputs, embeddings, tool calling, fine-tuning, mensurabilidade
+- [[Roadmap AI Engineer]] — trilha completa de AI Engineer
+
+## Artigos
+
+- [[Artigo - Navigating the Jagged Technological Frontier]]

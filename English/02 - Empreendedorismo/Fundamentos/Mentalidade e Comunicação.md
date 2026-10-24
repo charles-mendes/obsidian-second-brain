@@ -19,7 +19,7 @@ Voltar para [[Mapa - Empreendedorismo]] · Relacionado: [[Formas de Ficar Rico]]
 
 ## O sistema não é seu amigo
 
-> Anotações de [Como Ficar RICO Sem Se Matar de ESTUDAR com FLÁVIO AUGUSTO](https://www.youtube.com/watch?v=ruKHhJl3rQY)
+> Anotações de [Como Ficar RICO Sem Se Matar de ESTUDAR com FLÁVIO AUGUSTO](https://www.youtube.com/watch?v=ruKHhJl3rQY) — Código Alpha
 
 - **O "sistema"** é formado por três partes: o **modelo educacional** (padronizado pelo MEC), o **emprego** e a **Previdência Social**. Ele foi desenhado para formar funcionários, não donos.
 - Abrir os olhos: o governo não vai te deixar rico.
@@ -31,7 +31,7 @@ Ver também: [Quer Ficar Rico? Flávio Augusto Ensina o Caminho: Vendas, Lideran
 
 ## Comunicação de alto nível
 
-> Anotações de [Apenas A ELITE do 1% Se Comunica Assim](https://www.youtube.com/watch?v=MSo-z7WiA5c)
+> Anotações de [Apenas A ELITE do 1% Se Comunica Assim](https://www.youtube.com/watch?v=MSo-z7WiA5c) — Metaforando
 
 1. **Corte as palavras que geram dúvida:** "talvez", "eu acho", "pode ser", "provavelmente", "não sei se faz sentido".
 2. **Não seja uma pessoa descontrolada:** evite voz acelerada, justificativas longas, tom elevado e gestos agitados.
