@@ -1,46 +1,53 @@
-[![true](https://i.ytimg.com/vi/0mNITl6Eesg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLClFer1vIyZw2_pizrUC4zmq9GiaA)
+---
+tags:
+  - empreendedorismo
+  - ia
+---
 
-43:12
+# Empresa IA First
 
-Tocando agora
+Voltar para [[Mapa - Empreendedorismo]] · Relacionado: [[Competências para Construir uma Empresa de Milhões]], [[Mapa - Inteligência Artificial]]
 
-](https://www.youtube.com/watch?v=0mNITl6Eesg&pp=ygUraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj0wbU5JVGw2RWVzZw%3D%3D)
+Uma empresa **IA First** é desenhada desde o início para usar IA no centro da operação e do produto, e não como um recurso adicionado depois. A consequência principal: **capital, equipe grande e habilidade técnica deixaram de ser barreiras** para começar.
 
-### [5 Bilionários x 5 Empresários (500 mil de prêmio)](https://www.youtube.com/watch?v=0mNITl6Eesg&pp=ygUraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj0wbU5JVGw2RWVzZw%3D%3D "5 Bilionários x 5 Empresários (500 mil de prêmio)")
+## As 4 etapas para criar uma empresa com IA
 
-177 mil visualizaçõeshá 1 mês
+> Baseado nos capítulos de [Como Ficar RICO com IA | Segundo a Anthropic](https://www.youtube.com/watch?v=-VFTBwTxfJg) — Maestros da IA, que comenta um documento da Anthropic sobre como criar uma empresa de IA
 
-![](https://yt3.ggpht.com/43rRFRpAHsO52A8wpP7_eBAeJW2xA9n5sEY3YqY94vlW1ITWvSG8QO1hchn4edfWxV0s-bemdTc=s88-c-k-c0x00ffffff-no-rj)
+| Etapa | Objetivo | Como a IA ajuda |
+| --- | --- | --- |
+| **1. Validar** | Confirmar que o problema existe e que alguém paga para resolvê-lo | Pesquisa de mercado, análise de concorrentes, roteiros de entrevista, síntese das respostas |
+| **2. MVP** | Construir a primeira versão rapidamente | Agentes de IA programando em paralelo (vibe coding) |
+| **3. Lançar** | Encontrar *product-market fit* | Conteúdo de lançamento, suporte, análise de feedback |
+| **4. Escalar** | Crescer sem crescer a equipe na mesma proporção | Automação de operação, atendimento e vendas |
 
-![](https://yt3.ggpht.com/g4ylz_GPtut40N1IllRV-pxhZxs1ZHITFqH39wkQmBNH8mXdzaOCoY6_0zv3qFV_VX7T8ZIcbH4=s68-c-k-c0x00ffffff-no-rj)
+> [!warning] Cuidado com infraestrutura e segurança
+> Código gerado por IA (vibe coding) pode criar falhas de segurança e infraestrutura frágil. Revise autenticação, permissões, segredos e custos de cloud antes de colocar clientes reais.
 
-Canal Foco e Alfredo Soares
+### Sinais de product-market fit
 
-Se inscreve no link abaixo para participar do Os Caras do Pix https://tally.so/r/D4X6Bl Clica no link abaixo para ter as melhores ...
+- Clientes usam o produto sem você precisar insistir
+- Clientes indicam o produto para outros espontaneamente
+- Clientes ficariam muito decepcionados se o produto deixasse de existir
 
-4K
+## Modelo × Produto
 
+Anotação do vídeo [5 Bilionários x 5 Empresários (500 mil de prêmio)](https://www.youtube.com/watch?v=0mNITl6Eesg) — Canal Foco e Alfredo Soares: a diferença entre **modelo** e **produto**.
 
+- **Modelo de negócio** = como a empresa ganha dinheiro (assinatura, comissão, venda única, marketplace)
+- **Produto** = o que é entregue ao cliente
 
-Modelo
-Produto
+O mesmo produto pode ter modelos diferentes, e o modelo costuma definir o tamanho da empresa mais do que o produto. Uma empresa IA First precisa pensar nos dois: o produto usa IA, e o modelo precisa cobrir o **custo de IA por uso**.
 
+## Onde aplicar IA em uma empresa pequena
 
+| Área | Uso |
+| --- | --- |
+| Marketing | Criação de conteúdo, roteiros, anúncios, SEO |
+| Vendas | Qualificação de leads, propostas, follow-up |
+| Atendimento | Chatbot com base de conhecimento (RAG) |
+| Produto | Funcionalidades com LLM, automação de tarefas do cliente |
+| Operação | Relatórios, documentação, análise de dados |
+| Desenvolvimento | Agentes de código, testes, revisão |
 
-### [Como Ficar RICO com IA | Segundo a Anthropic](https://www.youtube.com/watch?v=-VFTBwTxfJg&t=120s&pp=ygUraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj0tVkZUQndUeGZKZ9IHCQmZCwGHKiGM7w%3D%3D "Como Ficar RICO com IA | Segundo a Anthropic")
-
-60 mil visualizaçõeshá 1 mês
-
-[![](https://yt3.ggpht.com/nwHdTGsASMRYBtrNrpTHRE1GWHzpxOgeFbxafReLT074poXWSFx5FCmoP6vVDWOcJE9IhTr8XQ=s68-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@maestrosdaia)
-
-[Maestros da IA](https://www.youtube.com/@maestrosdaia)
-
-Torne-se um Maestro da IA ...
-
-4K
-
-![](https://i.ytimg.com/vi_webp/-VFTBwTxfJg/hqdefault.webp)
-
-9 capítulos
-
-O documento da Anthropic que ensina a criar uma empresa de IA | Capital, equipe e habilidade técnica deixaram de ser barreiras | Estágio 1: como validar a ideia e o problema com IA | Estágio 2: MVP com agentes de IA trabalhando em paralelo | O alerta sobre infraestrutura e cybersegurança no vibe coding | Estágio 3: lançamento e os 3 sinais de product market fit | Estágio 4: escala e o crescimento 8x da Anthropic | As 9
+Exemplo de aplicação: [[Plataforma de Edição de Vídeo por IA]].

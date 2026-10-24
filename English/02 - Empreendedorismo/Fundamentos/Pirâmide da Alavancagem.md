@@ -1,4 +1,11 @@
-Testando Agora
+---
+tags:
+  - empreendedorismo
+---
+
+# Pirâmide da Alavancagem
+
+Voltar para [[Mapa - Empreendedorismo]] · Relacionado: [[Formas de Ficar Rico]], [[Construtores de Patrimônio]]
 
 > Quanto mais alto você sobe, maior é o potencial de gerar resultados sem depender diretamente do seu tempo.
 
@@ -152,3 +159,18 @@ Capital
 ```
 
 Quanto menos sua renda depender exclusivamente do seu tempo, maior tende a ser seu potencial de crescimento.
+
+---
+
+# 🧭 Como aplicar
+
+| Nível atual | Próximo passo concreto |
+| --- | --- |
+| ⏳ Tempo | Aumentar o valor da hora (especialização, inglês, IA) e começar a guardar dinheiro |
+| 👥 Pessoas | Pegar projetos maiores do que consegue fazer sozinho e delegar parte |
+| 📢 Mídia | Publicar sobre o que você já sabe (LinkedIn, YouTube, blog técnico) |
+| 💻 Código | Transformar um problema recorrente em produto → ex.: [[Plataforma de Edição de Vídeo por IA]] |
+| 💰 Capital | Reinvestir os lucros em ativos → ver [[Construtores de Patrimônio]] |
+
+> [!note] Mídia e código são "alavancas sem permissão"
+> Pessoas e capital exigem que alguém aceite trabalhar com você ou te emprestar dinheiro. Mídia e código não: qualquer pessoa pode publicar conteúdo ou escrever software hoje, com custo quase zero. Por isso são os melhores pontos de partida para um desenvolvedor.

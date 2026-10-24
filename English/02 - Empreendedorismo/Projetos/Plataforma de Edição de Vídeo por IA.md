@@ -1,7 +1,18 @@
+---
+tags:
+  - projeto
+  - empreendedorismo
+  - ia
+status: planejamento
+---
+
+# Plataforma de Edição de Vídeo por IA — Plano de Execução
+
+Voltar para [[Mapa - Empreendedorismo]] · Relacionado: [[Empresa IA First]], [[Competências para Construir uma Empresa de Milhões]], [[Roadmap AI Engineer]]
 
 ## Visão Geral
 
-Produto SaaS que recebe vídeo, áudio ou texto e devolve um vídeo editado automaticamente (cortes, zoom, legendas, B-roll, música), com um roadmap incremental de 4 fases. Este plano detalha **o que construir, em que ordem, com quais critérios de saída em cada fase**.
+Produto SaaS que recebe vídeo, áudio ou texto e devolve um vídeo editado automaticamente (cortes, zoom, legendas, B-roll, música), com um roadmap incremental de 5 fases (Fase 0 de validação + 4 fases de produto). Este plano detalha **o que construir, em que ordem, com quais critérios de saída em cada fase**.
 
 ---
 
@@ -177,7 +188,43 @@ Essa é a fase que expande o produto além de "editor" para "gerador".
 
 ## Próximos Passos Imediatos
 
-1. Definir orçamento disponível para APIs de IA (Whisper, LLM, TTS, geração de imagem) nos primeiros 3 meses
-2. Decidir entre self-hosted (Whisper local, mais barato em escala) vs API (mais rápido de lançar)
-3. Rodar as entrevistas de validação da Fase 0 antes de escrever a primeira linha de código do MVP
-4. Montar o schema de dados inicial (projects, jobs, timeline JSON) — esse formato de timeline será reutilizado em todas as fases seguintes, vale investir tempo em desenhá-lo bem desde já
+- [ ] Definir orçamento disponível para APIs de IA (Whisper, LLM, TTS, geração de imagem) nos primeiros 3 meses
+- [ ] Decidir entre self-hosted (Whisper local, mais barato em escala) vs API (mais rápido de lançar)
+- [ ] Rodar as entrevistas de validação da Fase 0 antes de escrever a primeira linha de código do MVP
+- [ ] Montar o schema de dados inicial (projects, jobs, timeline JSON) — esse formato de timeline será reutilizado em todas as fases seguintes, vale investir tempo em desenhá-lo bem desde já
+
+---
+
+## Modelo de Negócio (a validar na Fase 0)
+
+| Item | Hipótese inicial |
+| --- | --- |
+| **Cliente ideal (ICP)** | Criador de conteúdo solo que publica pelo menos 3 vídeos por semana |
+| **Dor principal** | Horas gastas cortando silêncios, legendando e adaptando para formato vertical |
+| **Modelo** | Assinatura mensal por minutos de vídeo processados (plano gratuito com marca d'água) |
+| **Métrica-chave** | Minutos processados por usuário ativo por semana |
+| **Custo variável** | Custo de IA por minuto (medido na Fase 0) — o preço precisa cobrir com margem de pelo menos 70% |
+
+## Esboço da timeline JSON
+
+Formato interno citado na Fase 1, reaproveitado por todas as fases:
+
+```json
+{
+  "projectId": "uuid",
+  "source": { "assetId": "uuid", "durationMs": 600000 },
+  "segments": [
+    { "id": "s1", "startMs": 0, "endMs": 4200, "action": "keep" },
+    { "id": "s2", "startMs": 4200, "endMs": 5100, "action": "cut", "reason": "silence", "confidence": 0.93 }
+  ],
+  "captions": [
+    { "startMs": 0, "endMs": 1800, "text": "Fala pessoal", "style": "default" }
+  ],
+  "effects": [
+    { "type": "zoom", "startMs": 2000, "endMs": 3500, "scale": 1.2 }
+  ],
+  "export": { "aspectRatio": "9:16", "format": "mp4" }
+}
+```
+
+O campo `confidence` em cada decisão permite a tela de revisão destacar o que a IA não tem certeza (ver Fase 2, item 6).

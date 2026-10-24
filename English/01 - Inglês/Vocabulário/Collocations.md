@@ -1,4 +1,20 @@
-Claro. Aqui vai uma lista prática de **collocations em inglês**, priorizando as mais úteis para conversação, trabalho e inglês B1–B2.
+---
+tags:
+  - ingles
+  - vocabulario
+---
+
+# Collocations
+
+Voltar para [[Mapa - Inglês]] · Relacionado: [[Chunks]], [[Word Families]], [[Phrasal Verbs]]
+
+**Collocation** é uma combinação de palavras que nativos usam naturalmente juntas. Traduzir palavra por palavra costuma gerar erros como *do a decision* (o certo é **make a decision**). Não existe regra lógica: é preciso aprender cada combinação.
+
+Lista priorizando as mais úteis para conversação, trabalho e o salto do B1 para o C1.
+
+> [!tip] Make × Do
+> - **make** = criar, produzir algo que não existia (*make a plan*, *make a mistake*)
+> - **do** = executar uma tarefa ou atividade (*do the dishes*, *do research*)
 
 ### 1. Make — collocations
 
@@ -106,7 +122,7 @@ Claro. Aqui vai uma lista prática de **collocations em inglês**, priorizando a
 
 ### 7. Inglês profissional / tecnologia
 
-Essas são particularmente importantes para você:
+As mais importantes para o dia a dia como desenvolvedor:
 
 |Collocation|Português|
 |---|---|
@@ -135,3 +151,45 @@ Essas são particularmente importantes para você:
 |**meet requirements**|atender aos requisitos|
 |**define requirements**|definir requisitos|
 |**implement a solution**|implementar uma solução|
+
+### 8. Negócios e dinheiro
+
+Úteis para assistir os vídeos de [[Mapa - Empreendedorismo|empreendedorismo]] em inglês:
+
+|Collocation|Português|
+|---|---|
+|**build wealth**|construir riqueza|
+|**earn a living**|ganhar a vida|
+|**make a profit**|ter lucro|
+|**generate revenue**|gerar receita|
+|**cut costs**|cortar custos|
+|**launch a product**|lançar um produto|
+|**close a deal**|fechar um negócio|
+|**run a business**|administrar um negócio|
+|**start a company**|abrir uma empresa|
+|**take a risk**|correr um risco|
+|**pay off debt**|quitar dívidas|
+|**save money**|economizar dinheiro|
+|**invest in stocks**|investir em ações|
+|**set a goal**|definir uma meta|
+|**reach a goal**|atingir uma meta|
+
+### 9. Adjetivo + substantivo
+
+|Collocation|Português|
+|---|---|
+|**strong coffee**|café forte (não *powerful coffee*)|
+|**heavy rain**|chuva forte (não *strong rain*)|
+|**high price**|preço alto (não *tall price*)|
+|**a big mistake**|um grande erro|
+|**a hard decision** / **a tough decision**|uma decisão difícil|
+|**a quick question**|uma pergunta rápida|
+|**a long-term goal**|uma meta de longo prazo|
+|**a steep learning curve**|uma curva de aprendizado difícil|
+|**common sense**|bom senso|
+
+## Como estudar
+
+1. Ao ler ou ouvir inglês, anote combinações que chamaram atenção, não palavras soltas.
+2. Para cada collocation, escreva uma frase sobre o seu trabalho ou a sua vida.
+3. Na dúvida se uma combinação existe, pesquise entre aspas no Google ou use um dicionário de collocations (ex.: *Oxford Collocations Dictionary*).

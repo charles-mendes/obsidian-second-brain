@@ -1,3 +1,13 @@
+---
+tags:
+  - ingles
+  - vocabulario
+---
+
+# Word Families
+
+Voltar para [[Mapa - Inglês]] · Relacionado: [[Chunks]], [[Collocations]], [[Phrasal Verbs]]
+
 Em inglês, **“famílias de palavras”** é **word families**.
 
 A definição é:
@@ -35,6 +45,44 @@ Você pode pensar:
 → **developmental**
 
 Isso é muito útil para aumentar vocabulário porque, ao aprender uma palavra, você aprende **várias palavras relacionadas de uma vez**.
+
+---
+
+### Sufixos que indicam a classe da palavra
+
+Reconhecer o sufixo ajuda a deduzir a classe gramatical de uma palavra nova.
+
+|Classe|Sufixos comuns|Exemplos|
+|---|---|---|
+|Substantivo|-tion, -sion, -ment, -ness, -ity, -er/-or, -ance/-ence|decision, development, happiness, ability, developer, performance|
+|Adjetivo|-ful, -less, -ive, -able/-ible, -al, -ous, -ic|useful, useless, decisive, reliable, financial, dangerous, economic|
+|Verbo|-ize, -ify, -en, -ate|optimize, simplify, strengthen, automate|
+|Advérbio|-ly|quickly, decisively, financially|
+
+Prefixos de negação: **un-** (unable), **in-/im-/il-/ir-** (indecisive, impossible, illegal, irrelevant), **dis-** (disagree), **mis-** (misunderstand).
+
+---
+
+### Mais famílias úteis
+
+|Base|Substantivo|Adjetivo|Advérbio|Oposto|
+|---|---|---|---|---|
+|**succeed** (ter sucesso)|success|successful|successfully|unsuccessful|
+|**create** (criar)|creation, creator, creativity|creative|creatively|—|
+|**invest** (investir)|investment, investor|—|—|—|
+|**rely** (confiar, depender)|reliability|reliable|reliably|unreliable|
+|**profit** (lucrar)|profit, profitability|profitable|profitably|unprofitable|
+|**finance** (financiar)|finance|financial|financially|—|
+|**economy**|economy, economics, economist|economic, economical|economically|uneconomical|
+|**automate** (automatizar)|automation|automatic, automated|automatically|manual|
+|**able** (capaz)|ability|able|ably|unable, inability|
+|**depend** (depender)|dependence, dependency|dependent|dependently|independent|
+|**understand** (entender)|understanding|understandable|understandably|misunderstand|
+|**communicate** (comunicar)|communication|communicative|—|—|
+
+> [!warning] Armadilhas
+> - **economic** = relativo à economia (*economic crisis*); **economical** = que economiza (*an economical car*).
+> - **sensible** = sensato; **sensitive** = sensível.
 
 ### Word family ≠ collocation
 
