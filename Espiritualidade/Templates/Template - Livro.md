@@ -10,7 +10,7 @@ nota:
 
 # {{title}}
 
-Voltar para [[Livros de Negócios e Finanças]]
+Voltar para [[00 - Início]]
 
 ## Em uma frase
 

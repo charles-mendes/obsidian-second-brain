@@ -6,7 +6,7 @@ tags:
 
 # Empresa IA First
 
-Voltar para [[Mapa - Empreendedorismo]] · Relacionado: [[Competências para Construir uma Empresa de Milhões]], [[Mapa - Inteligência Artificial]]
+Voltar para [[Mapa - Empreendedorismo]] · Relacionado: [[Competências para Construir uma Empresa de Milhões]], [Mapa - Inteligência Artificial](obsidian://open?vault=Programacao&file=Mapa%20-%20Intelig%C3%AAncia%20Artificial)
 
 Uma empresa **IA First** é desenhada desde o início para usar IA no centro da operação e do produto, e não como um recurso adicionado depois. A consequência principal: **capital, equipe grande e habilidade técnica deixaram de ser barreiras** para começar.
 

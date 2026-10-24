@@ -26,7 +26,7 @@ Tópicos anotados de um vídeo:
 ## Structured outputs
 
 - Forçar o modelo a responder em um formato fixo, normalmente **JSON validado por um schema**.
-- Essencial quando a resposta vai ser lida por código, não por uma pessoa (ex.: a timeline JSON da [[Plataforma de Edição de Vídeo por IA]]).
+- Essencial quando a resposta vai ser lida por código, não por uma pessoa (ex.: a timeline JSON da [Plataforma de Edição de Vídeo por IA](obsidian://open?vault=Emprendedorismo&file=Plataforma%20de%20Edi%C3%A7%C3%A3o%20de%20V%C3%ADdeo%20por%20IA)).
 
 ## Embeddings
 

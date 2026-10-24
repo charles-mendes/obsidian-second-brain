@@ -20,5 +20,5 @@ Voltar para [[00 - Início]]
 
 ## Aplicações nos negócios
 
-- [[Empresa IA First]] — como usar IA para criar e escalar uma empresa
-- [[Plataforma de Edição de Vídeo por IA]] — projeto que aplica Whisper, LLMs, TTS e geração de imagem
+- [Empresa IA First](obsidian://open?vault=Emprendedorismo&file=Empresa%20IA%20First) — como usar IA para criar e escalar uma empresa
+- [Plataforma de Edição de Vídeo por IA](obsidian://open?vault=Emprendedorismo&file=Plataforma%20de%20Edi%C3%A7%C3%A3o%20de%20V%C3%ADdeo%20por%20IA) — projeto que aplica Whisper, LLMs, TTS e geração de imagem

@@ -10,7 +10,7 @@ nota:
 
 # {{title}}
 
-Voltar para [[Livros de Negócios e Finanças]]
+Voltar para o Mapa da área: 
 
 ## Em uma frase
 

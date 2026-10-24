@@ -8,7 +8,7 @@ status: planejamento
 
 # Plataforma de Edição de Vídeo por IA — Plano de Execução
 
-Voltar para [[Mapa - Empreendedorismo]] · Relacionado: [[Empresa IA First]], [[Competências para Construir uma Empresa de Milhões]], [[Roadmap AI Engineer]]
+Voltar para [[Mapa - Empreendedorismo]] · Relacionado: [[Empresa IA First]], [[Competências para Construir uma Empresa de Milhões]], [Roadmap AI Engineer](obsidian://open?vault=Programacao&file=Roadmap%20AI%20Engineer)
 
 ## Visão Geral
 

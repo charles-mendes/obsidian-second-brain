@@ -154,7 +154,7 @@ As mais importantes para o dia a dia como desenvolvedor:
 
 ### 8. Negócios e dinheiro
 
-Úteis para assistir os vídeos de [[Mapa - Empreendedorismo|empreendedorismo]] em inglês:
+Úteis para assistir os vídeos de [empreendedorismo](obsidian://open?vault=Emprendedorismo&file=Mapa%20-%20Empreendedorismo) em inglês:
 
 |Collocation|Português|
 |---|---|

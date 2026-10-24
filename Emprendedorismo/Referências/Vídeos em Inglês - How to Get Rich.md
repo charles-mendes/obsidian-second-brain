@@ -7,9 +7,9 @@ tags:
 
 # Vídeos em Inglês - How to Get Rich
 
-Voltar para [[Mapa - Empreendedorismo]] · Também usado em [[Mapa - Inglês]]
+Voltar para [[Mapa - Empreendedorismo]] · Também usado em [Mapa - Inglês](obsidian://open?vault=English&file=Mapa%20-%20Ingl%C3%AAs)
 
-Vídeos em inglês sobre riqueza. Servem para dois objetivos ao mesmo tempo: aprender sobre negócios e treinar **listening com conteúdo nativo** (etapa B2 → C1 do [[Roteiro B1 ao C2]]).
+Vídeos em inglês sobre riqueza. Servem para dois objetivos ao mesmo tempo: aprender sobre negócios e treinar **listening com conteúdo nativo** (etapa B2 → C1 do [Roteiro B1 ao C2](obsidian://open?vault=English&file=Roteiro%20B1%20ao%20C2)).
 
 ## Lista
 
@@ -20,7 +20,7 @@ Vídeos em inglês sobre riqueza. Servem para dois objetivos ao mesmo tempo: apr
 ## Como assistir para aprender inglês
 
 1. **Primeira vez:** assistir com legenda em inglês, focando no conteúdo.
-2. **Segunda vez:** sem legenda, pausando para anotar [[Chunks]], [[Collocations]] e [[Phrasal Verbs]] novos.
+2. **Segunda vez:** sem legenda, pausando para anotar [Chunks](obsidian://open?vault=English&file=Chunks), [Collocations](obsidian://open?vault=English&file=Collocations) e [Phrasal Verbs](obsidian://open?vault=English&file=Phrasal%20Verbs) novos.
 3. **Shadowing:** escolher 1 minuto e repetir em voz alta junto com o vídeo.
 4. **Resumo em inglês:** escrever 5 frases resumindo a ideia principal (use o [[Template - Resumo de Vídeo]]).
 
