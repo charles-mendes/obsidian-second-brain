@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/B1 to C2.md",
+                "file": "Empreendedorismo/Pirâmide da Alavancagem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "B1 to C2"
+              "title": "Pirâmide da Alavancagem"
             }
           }
         ]
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/B1 to C2.md",
+                "file": "Empreendedorismo/Pirâmide da Alavancagem.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -165,14 +165,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "c634b1db6f149f07",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 466.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,11 +191,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "b96f73cd2ae48225",
   "lastOpenFiles": [
+    "English/B1 to C2.md",
     "2026-10-24.md",
     "IA/IA.md",
     "ssrn-4573321.pdf",
@@ -201,7 +212,6 @@
     "Empreendedorismo/Metodos para ficar rico/Lista de Videos/Lista de Videos.md",
     "Empreendedorismo/Metodos para ficar rico/Construtores de Patrimonio/Anotações.md",
     "Empreendedorismo/Metodos para ficar rico/Criadores de Riqueza/Anotações.md",
-    "English/B1 to C2.md",
     "IA",
     "English/Chunks.md",
     "1000_chunks_ingles.xlsx",
