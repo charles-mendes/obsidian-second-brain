@@ -20,7 +20,7 @@ Voltar para [[Mapa - Inglês]]
 | Bloco | Tempo | Atividade |
 | --- | --- | --- |
 | Revisão | 10 min | Revisar flashcards de chunks e collocations |
-| Input | 15 min | Vídeo ou podcast nativo (ver [Vídeos em Inglês - How to Get Rich](obsidian://open?vault=Emprendedorismo&file=V%C3%ADdeos%20em%20Ingl%C3%AAs%20-%20How%20to%20Get%20Rich)) |
+| Input | 15 min | Vídeo ou podcast nativo (ver [Vídeos em Inglês - How to Get Rich](obsidian://open?vault=Empreendedorismo&file=V%C3%ADdeos%20em%20Ingl%C3%AAs%20-%20How%20to%20Get%20Rich)) |
 | Shadowing | 5 min | Repetir em voz alta um trecho de 1 minuto do vídeo |
 | Output | 10 min | Falar ou escrever sobre o seu dia usando 5 chunks novos |
 | Captura | 5 min | Anotar no vault os chunks/collocations novos que apareceram |

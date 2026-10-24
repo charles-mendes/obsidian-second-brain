@@ -49,4 +49,4 @@ A IA não é boa ou ruim de forma uniforme. Existe uma **fronteira irregular** (
 3. Mapear a fronteira é uma **habilidade**: quanto mais você usa, mais entende onde a IA é confiável.
 4. Para quem está começando em uma área, a IA acelera muito a curva de aprendizado.
 
-Relacionado: [Empresa IA First](obsidian://open?vault=Emprendedorismo&file=Empresa%20IA%20First), [[Fundamentos de LLM]] (seção sobre evals e qualidade).
+Relacionado: [Empresa IA First](obsidian://open?vault=Empreendedorismo&file=Empresa%20IA%20First), [[Fundamentos de LLM]] (seção sobre evals e qualidade).

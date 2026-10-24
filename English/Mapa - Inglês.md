@@ -28,4 +28,4 @@ Voltar para [[00 - Início]]
 ## Materiais
 
 - Planilha com 1000 chunks: [[1000 Chunks de Inglês.xlsx]]
-- Prática de listening com conteúdo nativo: [Vídeos em Inglês - How to Get Rich](obsidian://open?vault=Emprendedorismo&file=V%C3%ADdeos%20em%20Ingl%C3%AAs%20-%20How%20to%20Get%20Rich)
+- Prática de listening com conteúdo nativo: [Vídeos em Inglês - How to Get Rich](obsidian://open?vault=Empreendedorismo&file=V%C3%ADdeos%20em%20Ingl%C3%AAs%20-%20How%20to%20Get%20Rich)

@@ -21,7 +21,7 @@ Links para notas de outros vaults abrem o vault correspondente no Obsidian.
 
 | Vault | Foco |
 | --- | --- |
-| [Emprendedorismo](obsidian://open?vault=Emprendedorismo&file=00%20-%20In%C3%ADcio) | Construir patrimônio, criar riqueza e tirar projetos do papel |
+| [Empreendedorismo](obsidian://open?vault=Empreendedorismo&file=00%20-%20In%C3%ADcio) | Construir patrimônio, criar riqueza e tirar projetos do papel |
 | [Programacao](obsidian://open?vault=Programacao&file=00%20-%20In%C3%ADcio) | Carreira de AI Engineer e uso de IA nos negócios |
 | [Espiritualidade](obsidian://open?vault=Espiritualidade&file=00%20-%20In%C3%ADcio) | Estudos pessoais |
 

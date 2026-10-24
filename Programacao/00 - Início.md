@@ -25,7 +25,7 @@ Links para notas de outros vaults abrem o vault correspondente no Obsidian.
 | Vault | Foco |
 | --- | --- |
 | [English](obsidian://open?vault=English&file=00%20-%20In%C3%ADcio) | Sair do B1 e chegar ao C2 |
-| [Emprendedorismo](obsidian://open?vault=Emprendedorismo&file=00%20-%20In%C3%ADcio) | Construir patrimônio, criar riqueza e tirar projetos do papel |
+| [Empreendedorismo](obsidian://open?vault=Empreendedorismo&file=00%20-%20In%C3%ADcio) | Construir patrimônio, criar riqueza e tirar projetos do papel |
 | [Espiritualidade](obsidian://open?vault=Espiritualidade&file=00%20-%20In%C3%ADcio) | Estudos pessoais |
 
 ## Organização do vault
