@@ -1,1 +1,8 @@
-{}
+{
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Anexos/Imagens",
+  "newLinkFormat": "shortest",
+  "userIgnoreFilters": [
+    "Templates/"
+  ]
+}
