@@ -11,10 +11,14 @@
             "id": "1c8e6d8865558ffb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Inteligência Artificial/Roadmap AI Engineer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Roadmap AI Engineer"
             }
           }
         ]

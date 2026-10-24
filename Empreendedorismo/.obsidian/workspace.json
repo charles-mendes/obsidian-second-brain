@@ -11,10 +11,14 @@
             "id": "0196a4a81d0c0e9f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Construir Empresa/Competências para Construir uma Empresa de Milhões.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Competências para Construir uma Empresa de Milhões"
             }
           }
         ]
@@ -186,6 +190,7 @@
   },
   "active": "0196a4a81d0c0e9f",
   "lastOpenFiles": [
+    "Riqueza/Criadores de Riqueza.md",
     "Referências/Livros de Negócios e Finanças.md",
     "Mapa - Empreendedorismo.md",
     "00 - Início.md",
@@ -198,7 +203,6 @@
     "Anexos/Imagens",
     "Anexos/Arquivos",
     "Anexos",
-    "Riqueza/Criadores de Riqueza.md",
     "Riqueza/Construtores de Patrimônio.md",
     "Riqueza",
     "Referências/Vídeos em Inglês - How to Get Rich.md",
