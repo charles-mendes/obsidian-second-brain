@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Empreendedorismo/Pirâmide da Alavancagem.md",
+                "file": "IA/IA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pirâmide da Alavancagem"
+              "title": "IA"
             }
           }
         ]
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Empreendedorismo/Pirâmide da Alavancagem.md",
+                "file": "IA/IA.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -195,16 +195,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b96f73cd2ae48225",
+  "active": "511f47ba63d30080",
   "lastOpenFiles": [
-    "English/B1 to C2.md",
-    "2026-10-24.md",
+    "IA/img/Pasted image 20260905170839.png",
+    "IA/img/ssrn-4573321.pdf",
+    "IA/img",
+    "IA/img/Pasted image 20260920034201.png",
+    "IA/img/Pasted image 20260920033600.png",
     "IA/IA.md",
-    "ssrn-4573321.pdf",
-    "Pasted image 20260920033600.png",
-    "Pasted image 20260920034201.png",
-    "Pasted image 20260905170839.png",
+    "2026-10-24.md",
     "Empreendedorismo/Pirâmide da Alavancagem.md",
+    "English/B1 to C2.md",
     "Empreendedorismo/Plataforma de Edição de Vídeo por IA/Plano de Execução — Plataforma de Edição de Vídeo por IA.md",
     "Empreendedorismo/Metodos para ficar rico/Lista de Videos/Pasted image 20260716224135.png",
     "Empreendedorismo/Metodos para ficar rico/Lista de Videos/Pasted image 20260716224130.png",
@@ -228,7 +229,6 @@
     "Empreendedorismo/Metodos para ficar rico/Criadores de Riqueza",
     "Empreendedorismo/Metodos para ficar rico/Construtores de Patrimonio",
     "Metodos para ficar rico/Untitled/Untitled.md",
-    "Empreendedorismo/Metodos para ficar rico/Lista de Videos",
     "Empreendedorismo/How to get rich/Kabbalah/Casa Kabbalah.md",
     "Empreendedorismo/How to get rich/The Only 25 Ways to Make Money in 2026 -  Dan Martell.md",
     "Empreendedorismo/How to get rich/How to become rich - Thewizardliz.md",
