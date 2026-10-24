@@ -17,6 +17,7 @@ Ponto de partida do vault de **Programação e Carreira**. Cada área tem uma no
 
 - [[Roadmap AI Engineer]] — o que estudar em IA
 - [[Fundamentos de LLM]] — tokens, prompts, embeddings, tool calling, fine-tuning e avaliação
+- [[AI Tooling - Visão Geral]] — ferramentas e processos para desenvolver software com IA
 
 ## Outros vaults
 
@@ -43,4 +44,4 @@ Links para notas de outros vaults abrem o vault correspondente no Obsidian.
 - **Nomes de notas** descrevem o conteúdo (evitar `Anotações.md`, `Sem título.md`).
 - **Toda nota nova** deve ser linkada no `Mapa` da sua área; uma área nova também entra na tabela acima.
 - **Vídeos assistidos** viram nota própria usando o [[Template - Resumo de Vídeo]] quando tiverem conteúdo relevante; os demais ficam nas listas de `Referências`.
-- **Tags** usadas: `#indice`, `#ia`, `#referencia`.
+- **Tags** usadas: `#indice`, `#ia`, `#tooling`, `#referencia`.
