@@ -11,14 +11,14 @@
             "id": "b96f73cd2ae48225",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "IA/IA.md",
-                "mode": "source",
-                "source": false
+                "aFile": "English/.obsidian/workspace.json",
+                "bFile": "English/.obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "IA"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -157,7 +157,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IA/IA.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -195,47 +194,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "511f47ba63d30080",
+  "active": "b96f73cd2ae48225",
   "lastOpenFiles": [
+    "01 - Inglês/Método de Estudo.md",
+    "01 - Inglês/Mapa - Inglês.md",
     "IA/img/Pasted image 20260905170839.png",
-    "IA/img/ssrn-4573321.pdf",
-    "IA/img",
+    "IA/IA.md",
+    "00 - Início.md",
+    "Anexos/Arquivos/1000 Chunks de Inglês.xlsx",
+    "Anexos/Arquivos/Navigating the Jagged Technological Frontier (2023).pdf",
+    "Anexos/Imagens/Thumbnail - Fine-tuning criando sites bonitos.png",
+    "Anexos/Imagens/Roadmap AI Engineer - tópicos.png",
+    "Anexos/Imagens/Fundamentos de LLM - tópicos.png",
+    "Anexos/Imagens/Tabela de aportes - meta 100 mil.png",
+    "Anexos/Imagens/Tabela de aportes - meta 3 milhões.png",
+    "03 - Inteligência Artificial/Referências/Vídeos de IA.md",
+    "04 - Espiritualidade/Kabbalah.md",
+    "02 - Empreendedorismo/Referências/Playlists de Empreendedorismo.md",
+    "02 - Empreendedorismo/Referências/Vídeos em Inglês - How to Get Rich.md",
+    "02 - Empreendedorismo/Projetos/Plataforma de Edição de Vídeo por IA.md",
+    "02 - Empreendedorismo/Referências/Vídeos - Como Ficar Rico.md",
+    "02 - Empreendedorismo/Construir Empresa/Empresa IA First.md",
+    "02 - Empreendedorismo/Construir Empresa/Competências para Construir uma Empresa de Milhões.md",
+    "02 - Empreendedorismo/Riqueza/Criadores de Riqueza.md",
+    "02 - Empreendedorismo/Riqueza/Construtores de Patrimônio.md",
+    "02 - Empreendedorismo/Fundamentos/Pirâmide da Alavancagem.md",
+    "01 - Inglês/Vocabulário/Word Families.md",
+    "01 - Inglês/Vocabulário/Collocations.md",
+    "Templates",
+    "Anexos/Imagens",
+    "Anexos/Arquivos",
+    "Anexos",
+    "04 - Espiritualidade",
+    "03 - Inteligência Artificial/Referências",
+    "03 - Inteligência Artificial",
+    "02 - Empreendedorismo/Riqueza",
+    "01 - Inglês/Vocabulário/Chunks.md",
+    "01 - Inglês/Roteiro B1 ao C2.md",
     "IA/img/Pasted image 20260920034201.png",
     "IA/img/Pasted image 20260920033600.png",
-    "IA/IA.md",
     "2026-10-24.md",
     "Empreendedorismo/Pirâmide da Alavancagem.md",
     "English/B1 to C2.md",
     "Empreendedorismo/Plataforma de Edição de Vídeo por IA/Plano de Execução — Plataforma de Edição de Vídeo por IA.md",
     "Empreendedorismo/Metodos para ficar rico/Lista de Videos/Pasted image 20260716224135.png",
     "Empreendedorismo/Metodos para ficar rico/Lista de Videos/Pasted image 20260716224130.png",
-    "Empreendedorismo/Metodos para ficar rico/Lista de Videos/Pasted image 20260716224002.png",
     "Empreendedorismo/Metodos para ficar rico/Lista de Videos/Lista de Videos.md",
     "Empreendedorismo/Metodos para ficar rico/Construtores de Patrimonio/Anotações.md",
-    "Empreendedorismo/Metodos para ficar rico/Criadores de Riqueza/Anotações.md",
-    "IA",
-    "English/Chunks.md",
-    "1000_chunks_ingles.xlsx",
-    "English/Word Families.md",
-    "English/Collocations.md",
-    "Empreendedorismo/Playlist de Empreendedorismo/Business plan.md",
-    "Empreendedorismo/Playlist de Empreendedorismo/Playlist.md",
-    "Empreendedorismo/Playlist de Empreendedorismo",
-    "Untitled 1",
-    "Empreendedorismo",
-    "Empreendedorismo/Plataforma de Edição de Vídeo por IA",
-    "Empreendedorismo/Metodos para ficar rico/Criadores de Riqueza/IA First.md",
-    "Empreendedorismo/Metodos para ficar rico/Criadores de Riqueza/Construir empresa de milhões - ordem de prioridade.md",
-    "Empreendedorismo/Metodos para ficar rico/Criadores de Riqueza",
-    "Empreendedorismo/Metodos para ficar rico/Construtores de Patrimonio",
-    "Metodos para ficar rico/Untitled/Untitled.md",
-    "Empreendedorismo/How to get rich/Kabbalah/Casa Kabbalah.md",
-    "Empreendedorismo/How to get rich/The Only 25 Ways to Make Money in 2026 -  Dan Martell.md",
-    "Empreendedorismo/How to get rich/How to become rich - Thewizardliz.md",
-    "Empreendedorismo/How to get rich/How To Actually Get Rich - Alex Hormozi.md",
-    "Empreendedorismo/How to get rich/Kabbalah/Curso de Kabbalah Grátis.md",
-    "English.md",
-    "Second Note.md",
-    "E.md"
+    "Empreendedorismo/Metodos para ficar rico/Criadores de Riqueza/Anotações.md"
   ]
 }
