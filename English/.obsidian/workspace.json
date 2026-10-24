@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Template - Resumo de Vídeo.md",
+                "file": "Templates/Template - Vocabulário.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Template - Resumo de Vídeo"
+              "title": "Template - Vocabulário"
             }
           }
         ]
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Template - Resumo de Vídeo.md",
+                "file": "Templates/Template - Vocabulário.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -197,6 +197,7 @@
   },
   "active": "b96f73cd2ae48225",
   "lastOpenFiles": [
+    "Templates/Template - Resumo de Vídeo.md",
     "Templates/Template - Livro.md",
     "00 - Início.md",
     "04 - Espiritualidade/Kabbalah.md",
@@ -206,7 +207,6 @@
     "01 - Inglês/Mapa - Inglês.md",
     "02 - Empreendedorismo/Referências/Vídeos em Inglês - How to Get Rich.md",
     "Templates/Template - Vocabulário.md",
-    "Templates/Template - Resumo de Vídeo.md",
     "Templates",
     "03 - Inteligência Artificial/Referências/Artigo - Navigating the Jagged Technological Frontier.md",
     "03 - Inteligência Artificial/Fundamentos de LLM.md",

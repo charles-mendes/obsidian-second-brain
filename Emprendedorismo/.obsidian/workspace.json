@@ -11,14 +11,10 @@
             "id": "0196a4a81d0c0e9f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "New tab"
             }
           }
         ]
@@ -206,6 +202,25 @@
   },
   "active": "0196a4a81d0c0e9f",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Welcome.md",
+    "02 - Empreendedorismo/Riqueza/Criadores de Riqueza.md",
+    "02 - Empreendedorismo/Riqueza/Construtores de Patrimônio.md",
+    "02 - Empreendedorismo/Referências/Vídeos em Inglês - How to Get Rich.md",
+    "02 - Empreendedorismo/Referências/Vídeos - Como Ficar Rico.md",
+    "02 - Empreendedorismo/Referências/Livros de Negócios e Finanças.md",
+    "02 - Empreendedorismo/Referências/Playlists de Empreendedorismo.md",
+    "02 - Empreendedorismo/Construir Empresa/Empresa IA First.md",
+    "02 - Empreendedorismo/Construir Empresa/Competências para Construir uma Empresa de Milhões.md",
+    "02 - Empreendedorismo/Fundamentos/Mentalidade e Comunicação.md",
+    "02 - Empreendedorismo/Fundamentos/Pirâmide da Alavancagem.md",
+    "02 - Empreendedorismo/Fundamentos/Formas de Ficar Rico.md",
+    "02 - Empreendedorismo/Projetos/Plataforma de Edição de Vídeo por IA.md",
+    "02 - Empreendedorismo/Riqueza",
+    "02 - Empreendedorismo/Referências",
+    "02 - Empreendedorismo/Construir Empresa",
+    "02 - Empreendedorismo/Mapa - Empreendedorismo.md",
+    "02 - Empreendedorismo/Fundamentos",
+    "02 - Empreendedorismo/Projetos",
+    "02 - Empreendedorismo"
   ]
 }
