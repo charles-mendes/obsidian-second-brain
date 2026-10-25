@@ -10,6 +10,9 @@ Ponto de partida do vault de **Espiritualidade** (estudos pessoais).
 ## Estudos
 
 - [[Kabbalah]] — playlists e anotações
+- [[Manifestação e Co-criação]] — escrever a visão, pedir e soltar, afirmações
+- [[Fé e Prosperidade com Deus]] — Deus como fonte, semeadura e colheita, vida espiritual diária
+- [[Autoconhecimento e Consciência]] — quem é você sem os rótulos, observador e natureza
 
 ## Outros vaults
 

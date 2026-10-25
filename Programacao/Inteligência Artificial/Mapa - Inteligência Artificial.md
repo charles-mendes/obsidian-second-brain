@@ -27,6 +27,7 @@ Voltar para [[00 - Início]]
 ## Referências
 
 - [[Vídeos de IA]] — vídeos sobre treinar e usar LLMs
+- [[Dicas de Reels - IA e Dev]] — Caveman, RTK, Graphify, MCP no Claude e cursos gratuitos
 - [[Artigo - Navigating the Jagged Technological Frontier]] — estudo de Harvard/BCG sobre o impacto da IA na produtividade
 
 ## Aplicações nos negócios
