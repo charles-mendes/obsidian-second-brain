@@ -11,10 +11,15 @@
             "id": "b96f73cd2ae48225",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Empreendedorismo/.obsidian/workspace.json",
+                "bFile": "Empreendedorismo/.obsidian/workspace.json",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Index)"
             }
           }
         ]
@@ -153,7 +158,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulário/Word Families.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -177,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 568.5
+    "width": 514.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,51 +197,50 @@
   },
   "active": "b96f73cd2ae48225",
   "lastOpenFiles": [
-    "00 - Início.md",
-    "Vocabulário/Word Families.md",
-    "Templates/Template - Vocabulário.md",
-    "Roteiro B1 ao C2.md",
-    "Método de Estudo.md",
-    "Mapa - Inglês.md",
-    "Vocabulário/Collocations.md",
-    "Vocabulário/Phrasal Verbs.md",
-    "Vocabulário/Chunks.md",
-    "Vocabulário",
-    "Templates/Template - Resumo de Vídeo.md",
-    "Templates/Template - Livro.md",
-    "04 - Espiritualidade/Kabbalah.md",
-    "02 - Empreendedorismo/Construir Empresa/Empresa IA First.md",
-    "02 - Empreendedorismo/Construir Empresa/Competências para Construir uma Empresa de Milhões.md",
-    "01 - Inglês/Método de Estudo.md",
-    "01 - Inglês/Mapa - Inglês.md",
-    "02 - Empreendedorismo/Referências/Vídeos em Inglês - How to Get Rich.md",
-    "Templates",
-    "03 - Inteligência Artificial/Referências/Artigo - Navigating the Jagged Technological Frontier.md",
-    "03 - Inteligência Artificial/Fundamentos de LLM.md",
-    "03 - Inteligência Artificial/Roadmap AI Engineer.md",
-    "03 - Inteligência Artificial/Mapa - Inteligência Artificial.md",
-    "02 - Empreendedorismo/Referências/Livros de Negócios e Finanças.md",
-    "02 - Empreendedorismo/Fundamentos/Mentalidade e Comunicação.md",
-    "02 - Empreendedorismo/Fundamentos/Formas de Ficar Rico.md",
-    "02 - Empreendedorismo/Mapa - Empreendedorismo.md",
-    "01 - Inglês/Vocabulário/Phrasal Verbs.md",
+    "Análise de Inglês/Caderno de Erros.md",
+    "Análise de Inglês/Caderno de Erros.md.tmp.10684.41445d57e539",
+    "Análise de Inglês/Análise do ChatGPT.md",
+    "Tutor-English/lang-tutor/test/run-skill-tests.sh",
+    "Tutor-English/lang-tutor/test",
+    "Tutor-English/lang-tutor/skills/lang-tutor/languages/_common.md",
+    "Tutor-English/lang-tutor/skills/lang-tutor/languages/vietnamese.md",
+    "Tutor-English/lang-tutor/skills/lang-tutor/languages/ukrainian.md",
+    "Tutor-English/lang-tutor/skills/lang-tutor/languages/turkish.md",
+    "Tutor-English/lang-tutor/skills/lang-tutor/languages/thai.md",
+    "Tutor-English/lang-tutor/skills/lang-tutor/languages/swedish.md",
+    "Tutor-English/lang-tutor/skills/lang-tutor/languages/spanish.md",
+    "Tutor-English/lang-tutor/skills/lang-tutor/languages/russian.md",
+    "Tutor-English/lang-tutor/skills/lang-tutor/languages/portuguese.md",
+    "Tutor-English/lang-tutor/skills/lang-tutor/languages/polish.md",
+    "Tutor-English/lang-tutor/skills/lang-tutor/languages/persian.md",
+    "Tutor-English/lang-tutor/skills/lang-tutor/languages/korean.md",
+    "Tutor-English/lang-tutor/skills/lang-tutor/languages/japanese.md",
+    "Tutor-English/lang-tutor/skills/lang-tutor/languages/indonesian.md",
+    "Tutor-English/lang-tutor/skills/lang-tutor/languages/italian.md",
+    "Tutor-English/lang-tutor/skills/lang-tutor/languages/hindi.md",
+    "Tutor-English/lang-tutor/skills/lang-tutor/languages/hebrew.md",
+    "Tutor-English/lang-tutor/skills/lang-tutor/languages/greek.md",
+    "Tutor-English/lang-tutor/skills/lang-tutor/languages/german.md",
+    "Tutor-English/lang-tutor/skills/lang-tutor/languages/french.md",
+    "Tutor-English/lang-tutor/skills/lang-tutor/languages/generic.md",
+    "Tutor-English/lang-tutor/skills/lang-tutor/languages/filipino.md",
+    "Tutor-English/lang-tutor/skills/lang-tutor/languages/english.md",
+    "Tutor-English/lang-tutor/skills/lang-tutor/languages",
+    "Tutor-English/lang-tutor/skills/lang-tutor",
+    "Tutor-English/lang-tutor/skills",
+    "Tutor-English/lang-tutor/hooks/hooks.json",
+    "Tutor-English/lang-tutor/hooks/lang-tutor-reminder.sh",
+    "Tutor-English/lang-tutor/hooks",
+    "Tutor-English/lang-tutor/LangTutorScreenshots/portuguese-beginner-feedback.png",
+    "Tutor-English/lang-tutor/LangTutorScreenshots/italian-advanced-nuance.png",
+    "Tutor-English/lang-tutor/LangTutorScreenshots/chinese-beginner-translation.png",
+    "Tutor-English/lang-tutor/LangTutorScreenshots/chinese-advanced-coding.png",
+    "Tutor-English/lang-tutor/LangTutorScreenshots",
     "IA/img/Pasted image 20260905170839.png",
-    "Anexos/Arquivos/1000 Chunks de Inglês.xlsx",
-    "Anexos/Arquivos/Navigating the Jagged Technological Frontier (2023).pdf",
     "Anexos/Imagens/Thumbnail - Fine-tuning criando sites bonitos.png",
     "Anexos/Imagens/Roadmap AI Engineer - tópicos.png",
     "Anexos/Imagens/Fundamentos de LLM - tópicos.png",
     "Anexos/Imagens/Tabela de aportes - meta 100 mil.png",
-    "Anexos/Imagens/Tabela de aportes - meta 3 milhões.png",
-    "Anexos/Imagens",
-    "Anexos/Arquivos",
-    "Anexos",
-    "04 - Espiritualidade",
-    "03 - Inteligência Artificial/Referências",
-    "03 - Inteligência Artificial",
-    "IA/img/Pasted image 20260920034201.png",
-    "IA/img/Pasted image 20260920033600.png",
-    "Empreendedorismo/Metodos para ficar rico/Lista de Videos/Pasted image 20260716224135.png",
-    "Empreendedorismo/Metodos para ficar rico/Lista de Videos/Pasted image 20260716224130.png"
+    "Anexos/Imagens/Tabela de aportes - meta 3 milhões.png"
   ]
 }
