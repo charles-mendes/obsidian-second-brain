@@ -11,15 +11,10 @@
             "id": "b96f73cd2ae48225",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Empreendedorismo/.obsidian/workspace.json",
-                "bFile": "Empreendedorismo/.obsidian/workspace.json",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Index)"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -197,6 +192,7 @@
   },
   "active": "b96f73cd2ae48225",
   "lastOpenFiles": [
+    "Tutor-English/lang-tutor/README.md",
     "Análise de Inglês/Caderno de Erros.md",
     "Análise de Inglês/Caderno de Erros.md.tmp.10684.41445d57e539",
     "Análise de Inglês/Análise do ChatGPT.md",
