@@ -8,6 +8,7 @@ Gerado pela skill /english-drill. Revise com `/english-drill review`.
 |---|---|---|---|
 | 2026-11-23 | irregular | 7 | 10 |
 | 2026-11-23 | present-past | 6 | 10 |
+| 2026-11-24 | irregular (parou na 6) | 3 | 6 |
 
 ## Erros para revisar
 
@@ -17,7 +18,7 @@ Gerado pela skill /english-drill. Revise com `/english-drill review`.
 - [ ] **irregular** — ❌ We get out at restaurante → ✅ We left the restaurant — 💡 sair de um lugar = leave → left, sem preposição (2026-11-23)
 - [ ] **vocabulário** — ❌ We paid the build → ✅ We paid the bill — 💡 bill = conta; build = construir (2026-11-23)
 - [ ] **preposições** — ❌ He left at house → ✅ He left home — 💡 home sem at/the com leave/go/get: go home, leave home (2026-11-23)
-- [ ] **present-past** — ❌ Yesterday I paid the bill and leave home → ✅ ...and left home — 💡 "yesterday" vale para os DOIS verbos da frase (2026-11-23)
+- [ ] **present-past** — ❌ Yesterday I paid the bill and leave home → ✅ ...and left home — 💡 "yesterday" vale para os DOIS verbos da frase; depois de and/but/so continua no passado — CONTE OS VERBOS antes de responder (2026-11-23) ×4
 - [ ] **present-past** — ❌ Yesterday he brought..., but he usually brought → ✅ ...but he usually brings — 💡 cada verbo segue a SUA palavra de tempo: usually = presente (2026-11-23)
 - [ ] **present-past** — ❌ Usually I works → ✅ I usually work — 💡 -s só com he/she/it; usually fica entre sujeito e verbo (2026-11-23)
 - [ ] **irregular** — ❌ He teached English → ✅ He taught English — 💡 família -ought/-aught: think/thought, teach/taught, buy/bought, bring/brought, catch/caught (2026-11-23)
@@ -27,6 +28,11 @@ Gerado pela skill /english-drill. Revise com `/english-drill review`.
 - [ ] **gramática** — ❌ every single days → ✅ every single day — 💡 depois de every, substantivo no singular (2026-11-23)
 - [ ] **preposições** — ❌ I went at office → ✅ I went to the office — 💡 movimento (go) = to; exceção: go home (2026-11-23)
 - [ ] **naturalidade** — ❌ I visited my church → ✅ I went to church — 💡 para quem frequenta: go to church, sem my/the (2026-11-23)
+- [ ] **irregular** — ❌ I put my phone... and forget it → ✅ ...and forgot it — 💡 forget → forgot (família get/got) (2026-11-24)
+- [ ] **irregular** — ❌ but she begin at 9 AM → ✅ but it began at 9 AM — 💡 begin → began (família sing/sang, drink/drank) (2026-11-24)
+- [ ] **irregular** — ❌ so I pay with my credit card → ✅ so I paid with my credit card — 💡 pay → paid; "so" continua a mesma história no passado (2026-11-24)
+- [ ] **vocabulário** — ❌ the met was at 10 AM → ✅ the meeting was at 10 AM — 💡 meeting = reunião; met = passado de meet (2026-11-24)
+- [ ] **gramática** — ❌ the meeting... she began → ✅ it began — 💡 she/he só para pessoas; coisas = it (2026-11-24)
 
 ## Pronúncia
 
