@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skills/lang-tutor/SKILL.md",
+                "file": "Skills/english-drill/SKILL.md",
                 "mode": "source",
                 "source": false
               },
@@ -194,16 +194,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "511f47ba63d30080",
+  "active": "b96f73cd2ae48225",
   "lastOpenFiles": [
+    "Análise de Inglês/Caderno de Erros.md",
+    "Skills/lang-tutor/SKILL.md",
     "Skills/lang-tutor/LICENSE.md",
     "Skills/lang-tutor/languages/english.md",
     "Skills/lang-tutor/languages/_common.md",
     "Skills/english-drill/SKILL.md",
-    "Análise de Inglês/Caderno de Erros.md",
     "Skills/README.md",
     "Skills/lang-tutor/SKILL.md.tmp.26036.019a2f4b05c5",
-    "Skills/lang-tutor/SKILL.md",
     "Skills/lang-tutor/languages",
     "Skills/lang-tutor",
     "Skills/english-drill",
