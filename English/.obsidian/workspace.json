@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análise de Inglês/Caderno de Erros.md",
+                "file": "Skills/lang-tutor/SKILL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Caderno de Erros"
+              "title": "SKILL"
             }
           }
         ]
@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 533.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,11 +194,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b96f73cd2ae48225",
+  "active": "511f47ba63d30080",
   "lastOpenFiles": [
+    "Skills/lang-tutor/LICENSE.md",
+    "Skills/lang-tutor/languages/english.md",
+    "Skills/lang-tutor/languages/_common.md",
+    "Skills/english-drill/SKILL.md",
+    "Análise de Inglês/Caderno de Erros.md",
+    "Skills/README.md",
+    "Skills/lang-tutor/SKILL.md.tmp.26036.019a2f4b05c5",
+    "Skills/lang-tutor/SKILL.md",
+    "Skills/lang-tutor/languages",
+    "Skills/lang-tutor",
+    "Skills/english-drill",
+    "Skills",
     "Análise de Inglês/Caderno de Erros.md.tmp.17324.160dfba43b48",
     "Tutor-English/lang-tutor/README.md",
-    "Análise de Inglês/Caderno de Erros.md",
     "Análise de Inglês/Caderno de Erros.md.tmp.10684.41445d57e539",
     "Análise de Inglês/Análise do ChatGPT.md",
     "Tutor-English/lang-tutor/test/run-skill-tests.sh",
@@ -220,22 +231,11 @@
     "Tutor-English/lang-tutor/skills/lang-tutor/languages/italian.md",
     "Tutor-English/lang-tutor/skills/lang-tutor/languages/hindi.md",
     "Tutor-English/lang-tutor/skills/lang-tutor/languages/hebrew.md",
-    "Tutor-English/lang-tutor/skills/lang-tutor/languages/greek.md",
-    "Tutor-English/lang-tutor/skills/lang-tutor/languages/german.md",
-    "Tutor-English/lang-tutor/skills/lang-tutor/languages/french.md",
-    "Tutor-English/lang-tutor/skills/lang-tutor/languages/generic.md",
-    "Tutor-English/lang-tutor/skills/lang-tutor/languages/filipino.md",
     "Tutor-English/lang-tutor/skills/lang-tutor/languages",
-    "Tutor-English/lang-tutor/skills/lang-tutor",
-    "Tutor-English/lang-tutor/skills",
-    "Tutor-English/lang-tutor/hooks/hooks.json",
-    "Tutor-English/lang-tutor/hooks/lang-tutor-reminder.sh",
-    "Tutor-English/lang-tutor/hooks",
     "Tutor-English/lang-tutor/LangTutorScreenshots/portuguese-beginner-feedback.png",
     "Tutor-English/lang-tutor/LangTutorScreenshots/italian-advanced-nuance.png",
     "Tutor-English/lang-tutor/LangTutorScreenshots/chinese-beginner-translation.png",
     "Tutor-English/lang-tutor/LangTutorScreenshots/chinese-advanced-coding.png",
-    "Tutor-English/lang-tutor/LangTutorScreenshots",
     "IA/img/Pasted image 20260905170839.png",
     "Anexos/Imagens/Thumbnail - Fine-tuning criando sites bonitos.png",
     "Anexos/Imagens/Roadmap AI Engineer - tópicos.png",
