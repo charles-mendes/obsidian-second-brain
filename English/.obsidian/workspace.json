@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 533.5
+    "width": 327.0999755859375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,6 +196,7 @@
   },
   "active": "b96f73cd2ae48225",
   "lastOpenFiles": [
+    "Skills/sed2Was2F",
     "Análise de Inglês/Caderno de Erros.md",
     "Skills/lang-tutor/SKILL.md",
     "Skills/lang-tutor/LICENSE.md",
@@ -230,7 +231,6 @@
     "Tutor-English/lang-tutor/skills/lang-tutor/languages/indonesian.md",
     "Tutor-English/lang-tutor/skills/lang-tutor/languages/italian.md",
     "Tutor-English/lang-tutor/skills/lang-tutor/languages/hindi.md",
-    "Tutor-English/lang-tutor/skills/lang-tutor/languages/hebrew.md",
     "Tutor-English/lang-tutor/skills/lang-tutor/languages",
     "Tutor-English/lang-tutor/LangTutorScreenshots/portuguese-beginner-feedback.png",
     "Tutor-English/lang-tutor/LangTutorScreenshots/italian-advanced-nuance.png",
