@@ -26,7 +26,7 @@ Skills/
 
 Tópicos: `present-past`, `irregular`, `story`, `do-does-did`, `articles`, `prepositions`, `mix`, `review`.
 
-A skill tem um **perfil de erros** (seção 0 do `SKILL.md`) montado a partir do caderno: os padrões que mais se repetem entram em todas as sessões. Um erro só é marcado como dominado depois de 2 acertos em dias diferentes.
+A skill tem um **perfil de erros** (seção 0 do `SKILL.md`) montado a partir do caderno: os padrões que mais se repetem entram em todas as sessões. Um erro só é marcado como dominado depois de 2 acertos em dias diferentes. No fim de cada sessão a própria skill atualiza essa tabela (contagens e padrões novos).
 
 ```
 /english-drill irregular 10

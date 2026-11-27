@@ -151,7 +151,18 @@ Em cada sessão:
 - 2º acerto **em outro dia** → marque como `- [x]`.
 - Se errar de novo um item com ` ✔`, remova o ` ✔` e acrescente o `×N`.
 
-**Padrões novos**: se um tipo de erro que não está na tabela da seção 0 aparecer 3 vezes no caderno, diga ao aluno no resumo final: `🆕 Novo padrão: <descrição>. Vale adicionar à skill.`
+## 5b. Atualizar o perfil de erros (automático)
+
+Arquivo da skill: `C:\Users\Charles Mendes\Documents\English Obsidian\English\Skills\english-drill\SKILL.md`
+
+**No fim de cada sessão**, depois de salvar o caderno, atualize **somente a tabela da seção 0** deste arquivo:
+1. **Contagem**: para cada erro da sessão que se encaixa num padrão existente, some na coluna "Quantas vezes" e, se for um exemplo melhor, troque um dos exemplos (máximo 3 exemplos por linha).
+2. **Padrão novo**: se um tipo de erro que não está na tabela já aparece **3 vezes ou mais** no caderno, adicione uma linha nova com o próximo número.
+3. **Reordene** as linhas pela contagem (maior primeiro), mas mantenha cada número fixo (o aluno lembra do "padrão #1").
+4. **Padrão dominado**: se todos os itens do caderno de um padrão estiverem `- [x]`, mova a linha para o fim e escreva `✅ dominado` na contagem.
+5. Não altere nenhuma outra parte da skill. Se achar que outra regra deveria mudar, apenas sugira no resumo final.
+
+No resumo final, diga em uma linha o que mudou: `🧠 Perfil atualizado: padrão #1 agora 8×; novo padrão #9 (<descrição>).` Se nada mudou, não escreva essa linha.
 
 ## 6. Resumo final
 
